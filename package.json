@@ -1,0 +1,15 @@
+{
+  "name": "highlights",
+  "version": "1.0.0",
+  "description": "Video Highlights cuts and uploading",
+  "main": "WebBtorrentDownloader.js",
+  "dependencies": {
+    "webtorrent": "^0.110.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhouqiang.wang@hotmail.com",
+  "license": "ISC"
+}

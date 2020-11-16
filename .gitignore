@@ -1,0 +1,8 @@
+
+.DS_Store
+*.mp4
+
+node_modules
+VideoAnalysis/venv
+VideoAnalysis/.idea
+*.wav
